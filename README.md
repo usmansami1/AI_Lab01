@@ -42,7 +42,7 @@ A Python-based generative-art project that turns mathematical fractals into a bo
 
 ### T-shirt design mock-up
 
-![Fractal T-shirt mock-up](assets/fractal-tshirt-mockup.png)
+![Fractal T-shirt mock-up](/Gemini_Generated_Image_dxuzupdxuzupdxuz.jpg)
 
 ## Student Details
 
