@@ -38,7 +38,7 @@ A Python-based generative-art project that turns mathematical fractals into a bo
 
 ### Generated fractal artwork
 
-![Generated fractal artwork](assets/fractal_tshirt_print.png)
+![Generated fractal artwork](/fractal_tshirt_print.png)
 
 ### T-shirt design mock-up
 
