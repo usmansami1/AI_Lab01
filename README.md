@@ -38,7 +38,7 @@ A Python-based generative-art project that turns mathematical fractals into a bo
 
 ### Generated fractal artwork
 
-![Generated fractal artwork](assets/fractal-artwork.png)
+![Generated fractal artwork](assets/fractal_tshirt_print.png)
 
 ### T-shirt design mock-up
 
@@ -46,6 +46,6 @@ A Python-based generative-art project that turns mathematical fractals into a bo
 
 ## Student Details
 
-- **Student name:**Usman Sami
+- **Student name:** Usman Sami
 - **Registration number:** 545491
 
